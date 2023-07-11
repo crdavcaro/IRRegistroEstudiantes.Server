@@ -1,0 +1,14 @@
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Data\bin\Debug\net6.0\IRRegistroEstudiantes.Data.deps.json
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Data\bin\Debug\net6.0\IRRegistroEstudiantes.Data.runtimeconfig.json
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Data\bin\Debug\net6.0\IRRegistroEstudiantes.Data.dll
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Data\bin\Debug\net6.0\IRRegistroEstudiantes.Data.pdb
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Data\obj\Debug\net6.0\IRRegistroEstudiantes.Data.csproj.AssemblyReference.cache
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Data\obj\Debug\net6.0\IRRegistroEstudiantes.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Data\obj\Debug\net6.0\IRRegistroEstudiantes.Data.AssemblyInfoInputs.cache
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Data\obj\Debug\net6.0\IRRegistroEstudiantes.Data.AssemblyInfo.cs
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Data\obj\Debug\net6.0\IRRegistroEstudiantes.Data.csproj.CoreCompileInputs.cache
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Data\obj\Debug\net6.0\IRRegistroEstudiantes.Data.dll
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Data\obj\Debug\net6.0\refint\IRRegistroEstudiantes.Data.dll
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Data\obj\Debug\net6.0\IRRegistroEstudiantes.Data.pdb
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Data\obj\Debug\net6.0\IRRegistroEstudiantes.Data.genruntimeconfig.cache
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Data\obj\Debug\net6.0\ref\IRRegistroEstudiantes.Data.dll

@@ -1,0 +1,15 @@
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Business\obj\Debug\net6.0\IRRegistroEstudiantes.Business.csproj.AssemblyReference.cache
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Business\obj\Debug\net6.0\IRRegistroEstudiantes.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Business\obj\Debug\net6.0\IRRegistroEstudiantes.Business.AssemblyInfoInputs.cache
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Business\obj\Debug\net6.0\IRRegistroEstudiantes.Business.AssemblyInfo.cs
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Business\obj\Debug\net6.0\IRRegistroEstudiantes.Business.csproj.CoreCompileInputs.cache
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Business\bin\Debug\net6.0\IRRegistroEstudiantes.Business.deps.json
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Business\bin\Debug\net6.0\IRRegistroEstudiantes.Business.dll
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Business\bin\Debug\net6.0\IRRegistroEstudiantes.Business.pdb
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Business\bin\Debug\net6.0\IRRegistroEstudiantes.Model.dll
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Business\bin\Debug\net6.0\IRRegistroEstudiantes.Model.pdb
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Business\obj\Debug\net6.0\IRRegistroEstudiantes.Business.csproj.CopyComplete
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Business\obj\Debug\net6.0\IRRegistroEstudiantes.Business.dll
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Business\obj\Debug\net6.0\refint\IRRegistroEstudiantes.Business.dll
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Business\obj\Debug\net6.0\IRRegistroEstudiantes.Business.pdb
+C:\Workspace\Others\IRRegistroEstudiantes\IRRegistroEstudiantes.Business\obj\Debug\net6.0\ref\IRRegistroEstudiantes.Business.dll
